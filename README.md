@@ -4,9 +4,9 @@ This project folder contains data and scripts to reproduce the results presented
 
 ### Index
 
-1. [Creating workable dataset](https://github.com/sebfest/motivation_and_incentives/blob/master/main/notebook/1_make_dataset.ipynb)
-2. [Sample characterisitcs and balance](https://github.com/sebfest/motivation_and_incentives/blob/master/main/notebook/2_balance_and_sample.ipynb)
-3. [Treatment effects](https://github.com/sebfest/motivation_and_incentives/blob/master/main/notebook/3_treatment_effects_quantity.ipynb)
-4. [Beliefs](https://github.com/sebfest/motivation_and_incentives/blob/master/main/notebook/4_treatment_effects_quality.ipynb)
+1. [Creating workable dataset](https://github.com/sebfest/fair_advice/blob/master/main/notebook/1_make_dataset.ipynb)
+2. [Sample characterisitcs and balance](https://github.com/sebfest/fair_advice/blob/master/main/notebook/2_balance_and_sample.ipynb)
+3. [Treatment effects](https://github.com/sebfest/fair_advice/blob/master/main/notebook/3_treatment_effects.ipynb)
+4. [Beliefs](https://github.com/sebfest/fair_advice/blob/master/main/notebook/4_beliefs.ipynb)
 
 
